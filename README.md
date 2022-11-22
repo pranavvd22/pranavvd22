@@ -4,7 +4,7 @@
 
 <br>
 
-<p>I'm is <strong>Pranav Damedhar</strong>, a passionate about web development and solving algos.  I am a young, energetic, and geeky individual whose desire to learn is endless. Apart from technical knowledge, I like Solving Logical and Mathematical Reasoning. Also, I like to play video games 🎮 and watch SciFi movies 🎬 in my leisure time.</p>
+<p>I'm <strong>Pranav Damedhar</strong>, a passionate about web development and solving algos.  I am a young, energetic, and geeky individual whose desire to learn is endless. Apart from technical knowledge, I like Solving Logical and Mathematical Reasoning. Also, I like to play video games 🎮 and watch SciFi movies 🎬 in my leisure time.</p>
 
 ### 🌐 Social
 
